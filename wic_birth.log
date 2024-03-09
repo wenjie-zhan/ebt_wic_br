@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.8)  8 MAR 2024 17:31
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.8)  8 MAR 2024 17:44
->>>>>>> Stashed changes
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.8)  8 MAR 2024 18:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1054,8 +1050,14 @@ L3 programming layer <2023-11-09>
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `wic_birth.out' has not changed.
-(rerunfilecheck)             Checksum: 1F3F10713FFCC1869FEF3D82DA6445FC;1224.
+
+Package rerunfilecheck Warning: File `wic_birth.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `wic_birth.out':
+(rerunfilecheck)             Before: BB1A4D34B6593C92B3728C9030292B05;1233
+(rerunfilecheck)             After:  1F3F10713FFCC1869FEF3D82DA6445FC;1224.
  ) 
 Here is how much of TeX's memory you used:
  14591 strings out of 474587
@@ -1089,11 +1091,7 @@ rs/wenji/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pf
 b><C:/Users/wenji/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmti9.pfb><C:/Users/wenji/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/symbols/msam10.pfb>
-<<<<<<< Updated upstream
-Output written on wic_birth.pdf (19 pages, 2143046 bytes).
-=======
 Output written on wic_birth.pdf (19 pages, 2143051 bytes).
->>>>>>> Stashed changes
 PDF statistics:
  376 PDF objects out of 1000 (max. 8388607)
  64 named destinations out of 1000 (max. 500000)
