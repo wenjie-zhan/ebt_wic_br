@@ -1,0 +1,77 @@
+
+
+% Bibstyle aea.bst version 2009.05.20
+
+\begin{thebibliography}{xx}
+
+\harvarditem[Almond, Hoynes \harvardand\ Schanzenbach]{Douglas Almond, Hilary~W
+  Hoynes \harvardand\ Diane~Whitmore Schanzenbach}{2011}{almond2011inside}
+{\bf Almond, Douglas, Hilary~W Hoynes, and Diane~Whitmore Schanzenbach.} 2011.
+  ``Inside the war on poverty: The impact of food stamps on birth outcomes.''
+  {\em The review of economics and statistics}, 93(2):~387--403.
+
+\harvarditem[Alsan \harvardand\ Yang]{Marcella Alsan \harvardand\ Crystal~S
+  Yang}{2022}{alsan2022fear}
+{\bf Alsan, Marcella, and Crystal~S Yang.} 2022. ``Fear and the safety net:
+  Evidence from secure communities.'' {\em Review of Economics and Statistics},
+  1--45.
+
+\harvarditem[Callaway \harvardand\ Sant’Anna]{Brantly Callaway \harvardand\
+  Pedro~HC Sant’Anna}{2021}{callaway2021difference}
+{\bf Callaway, Brantly, and Pedro~HC Sant’Anna.} 2021.
+  ``Difference-in-differences with multiple time periods.'' {\em Journal of
+  Econometrics}, 225(2):~200--230.
+
+\harvarditem[Chorniy, Currie \harvardand\ Sonchak]{Anna Chorniy, Janet Currie
+  \harvardand\ Lyudmyla Sonchak}{2020}{chorniy2020does}
+{\bf Chorniy, Anna, Janet Currie, and Lyudmyla Sonchak.} 2020. ``Does prenatal
+  WIC participation improve child outcomes?'' {\em American Journal of Health
+  Economics}, 6(2):~169--198.
+
+\harvarditem[East et~al.]{Chloe~N East, Annie~L Hines, Philip Luck, Hani
+  Mansour \harvardand\ Andrea Velasquez}{2023}{east2023labor}
+{\bf East, Chloe~N, Annie~L Hines, Philip Luck, Hani Mansour, and Andrea
+  Velasquez.} 2023. ``The labor market effects of immigration enforcement.''
+  {\em Journal of Labor Economics}, 41(4):~957--996.
+
+\harvarditem[Goodman-Bacon]{Andrew Goodman-Bacon}{2021}{goodman2021difference}
+{\bf Goodman-Bacon, Andrew.} 2021. ``Difference-in-differences with variation
+  in treatment timing.'' {\em Journal of Econometrics}, 225(2):~254--277.
+
+\harvarditem[Hanks et~al.]{Andrew~S Hanks, Carolyn Gunther, Dean Lillard
+  \harvardand\ Robert~L Scharff}{2019}{hanks2019paper}
+{\bf Hanks, Andrew~S, Carolyn Gunther, Dean Lillard, and Robert~L Scharff.}
+  2019. ``From paper to plastic: understanding the impact of eWIC on WIC
+  recipient behavior.'' {\em Food Policy}, 83:~83--91.
+
+\harvarditem[Hoynes, Page \harvardand\ Stevens]{Hilary Hoynes, Marianne Page
+  \harvardand\ Ann~Huff Stevens}{2011}{hoynes2011can}
+{\bf Hoynes, Hilary, Marianne Page, and Ann~Huff Stevens.} 2011. ``Can targeted
+  transfers improve birth outcomes?: Evidence from the introduction of the WIC
+  program.'' {\em Journal of Public Economics}, 95(7-8):~813--827.
+
+\harvarditem[Kreider, Pepper \harvardand\ Roy]{Brent Kreider, John~V Pepper
+  \harvardand\ Manan Roy}{2016}{kreider2016identifying}
+{\bf Kreider, Brent, John~V Pepper, and Manan Roy.} 2016. ``Identifying the
+  effects of WIC on food insecurity among infants and children.'' {\em Southern
+  Economic Journal}, 82(4):~1106--1122.
+
+\harvarditem[Li, Saitone \harvardand\ Sexton]{Xuemei Li, Tina~L Saitone
+  \harvardand\ Richard~J Sexton}{2022}{li2022impacts}
+{\bf Li, Xuemei, Tina~L Saitone, and Richard~J Sexton.} 2022. ``Impacts of
+  Electronic Benefit Transfer on the Women, Infants and Children Program:
+  Evidence from Oklahoma.'' {\em Journal of Agricultural and Resource
+  Economics}, 47(2):~373--389.
+
+\harvarditem[Meckel]{Katherine Meckel}{2020}{meckel2020cure}
+{\bf Meckel, Katherine.} 2020. ``Is the cure worse than the disease? unintended
+  effects of payment reform in a quantity-based transfer program.'' {\em
+  American Economic Review}, 110(6):~1821--1865.
+
+\harvarditem[Sun \harvardand\ Abraham]{Liyang Sun \harvardand\ Sarah
+  Abraham}{2021}{sun2021estimating}
+{\bf Sun, Liyang, and Sarah Abraham.} 2021. ``Estimating dynamic treatment
+  effects in event studies with heterogeneous treatment effects.'' {\em Journal
+  of Econometrics}, 225(2):~175--199.
+
+\end{thebibliography}

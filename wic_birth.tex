@@ -1,0 +1,109 @@
+\documentclass[a4paper,twoside,11pt]{article}
+\usepackage{a4wide,graphicx,fancyhdr,clrscode,tabularx,amsmath,amssymb,color,enumitem}
+\usepackage{algo}
+\usepackage{bm}
+\usepackage{indentfirst}
+\usepackage{hanging}
+\usepackage[round]{natbib}
+\usepackage{amsmath,amssymb}
+\usepackage{lscape}
+\usepackage{booktabs}
+\usepackage{setspace}
+\usepackage{makecell}
+\usepackage{dcolumn}
+\usepackage{longtable}
+\usepackage{caption}
+\usepackage{tocbasic}
+\usepackage{tablefootnote}
+\usepackage{array}
+\usepackage{hyperref}
+\usepackage{subcaption}
+\usepackage{graphbox}
+\usepackage{tabularx}
+\usepackage{threeparttable}
+\usepackage[labelfont=sc]{caption}
+\usepackage[section]{placeins}
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+\renewcommand*{\listoffigures}{\listoftoc[\listfigurename]{lof}}
+\renewcommand*{\listoftables}{\listoftoc[\listtablename]{lot}}
+\setuptoc{lof}{leveldown,totoc}
+\setuptoc{lot}{leveldown,totoc}
+\makeatletter
+\newcommand*{\rom}[1]{\expandafter\@slowromancap\romannumeral #1@}
+\makeatother
+\raggedbottom
+\FloatBarrier
+%----------------------- Macros and Definitions --------------------------
+\renewcommand{\baselinestretch}{1.25}
+\setlength\headheight{20pt}
+\addtolength\parindent{1em}
+\addtolength\topmargin{-10pt}
+\addtolength\footskip{20pt}
+
+\fancypagestyle{plain}{%
+\fancyhf{}
+\fancyhead[LO,RE]{\sffamily UC DAVIS ARE}
+\fancyhead[RO,LE]{\sffamily Progress Report}
+\fancyfoot[LO,RE]{\sffamily}
+\fancyfoot[LO,RE]{\sffamily \thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LO,RE]{\sffamily}
+\fancyhead[RO,LE]{\sffamily}
+\fancyfoot[LO,RE]{\sffamily}
+\fancyfoot[LO,RE]{\sffamily \thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\newcommand{\R}{{\mathbb R}}
+\newcommand{\N}{{\mathbb N}}
+\newcommand{\Z}{{\mathbb Z}}
+\newcommand{\Q}{{\mathbb Q}}
+\allowdisplaybreaks
+
+
+\begin{document}
+\title{\vspace{0.8\baselineskip} 
+\textsc{Research in Progress} \\ The Impact of Electronic Benefit Transfer on WIC Participation: Evidence from Natality Data}
+\author{Charlotte Ambrozek \\ UMN \and Timothy K.M. Beatty \\ UC Davis \and Wenjie Zhan \\ UC Davis}
+\maketitle
+
+\begin{abstract}
+Between 2002 and 2022, the Special Supplemental Nutrition Program for Women, Infants, and Children
+(WIC) transitioned from paper vouchers to electronic benefit transfer (EBT) cards. This payment reform
+was expected to encourage WIC participation by reducing transaction costs and welfare stigma but empirical evidence has been mixed. One challenge in prior work is absence of detailed WIC participation data on a large scale, limiting
+the generalizability of results. In this paper, we evaluate the impact of WIC EBT implementation on WIC
+participation by linking the WIC EBT roll-out schedule across virtually all counties in the U.S. to natality
+data, which began reporting WIC participation in 2009. We document a significant increase in WIC participation among births that are most likely eligible for WIC: after the implementation of EBT, WIC participation among the births of less educated and unmarried mothers increases by 9.18\%, and by 14.82\% if the mothers are also black or Hispanic. Our results are robust to sample selection, estimation methods, and definitions of likely eligible sub-population. We also reconcile our results with seemingly opposite results in \cite{meckel2020cure}.
+\end{abstract}
+
+\clearpage
+\input{wic1_introduction}
+
+\input{wic2_data_and_research_design}
+
+\input{wic3_results_robustness}
+
+\input{wic4_comparison}
+
+<<<<<<< Updated upstream
+test
+=======
+test test test
+>>>>>>> Stashed changes
+
+\clearpage
+
+\begin{spacing}{1.25}
+\newpage
+\bibliographystyle{aea}
+\bibliography{wic_br_ref}
+\end{spacing}
+
+
+\end{document}
